@@ -1,0 +1,3 @@
+For training run gesture recognizer using Python3.
+For evaluation run evaluation script using Python3.
+Ensure dataset is in the same folder as the training and evaluation scripts.
